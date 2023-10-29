@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MapperDynamic.Services\MapperDynamic.csproj" />
+  </ItemGroup>
+
 </Project>
